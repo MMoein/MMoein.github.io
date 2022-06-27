@@ -101,7 +101,7 @@ p {
 	margin: 10px 0;
 	align-items: center;
 	justify-content: center;
-	margin-top: 20px;
+	margin-top: 15px;
 	width: 100%;
 	font-size: 11px;
 	font-weight: bold;
@@ -117,11 +117,12 @@ p {
 
 .maps {
 	margin-top: 0px;
-	display: flex;
+
 	flex-direction: column;
-	gap: 1vh;
+	display: flex;
+
 	align-items: center;
-		justify-content: center;
+	justify-content: center;
 	width: 90%;
 	margin-right: 5%;
 	justify-content: center;
@@ -139,6 +140,7 @@ p {
 	text-decoration: none;
 	color: black;
 	font-weight: normal;
+	margin-top: 5px;
 }
 .neshan {
 	background-color: #f7d5d5;
